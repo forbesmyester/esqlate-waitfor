@@ -1,6 +1,6 @@
 {
-  "name": "waitfor-ts",
-  "version": "1.0.0",
+  "name": "esqlate-waitfor",
+  "version": "1.0.1",
   "description": "Wait for a specific condition, by repeatedly trying it",
   "main": "./dist/index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/forbesmyester/waitfor-ts.git"
+    "url": "git+https://github.com/forbesmyester/esqlate-waitfor.git"
   },
   "keywords": [
     "algebraic data types",
@@ -29,7 +29,7 @@
   "author": "Matt Forrester <github@speechmarks.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/forbesmyester/waitfor-ts/issues"
+    "url": "https://github.com/forbesmyester/esqlate-waitfor/issues"
   },
-  "homepage": "https://github.com/forbesmyester/waitfor-ts#readme"
+  "homepage": "https://github.com/forbesmyester/esqlate-waitfor#readme"
 }
